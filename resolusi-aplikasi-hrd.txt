@@ -6,3 +6,4 @@ Resolusi Aplikasi HRD - GA
   - PHP Laravel
 - Mempunyai Cloud Computing Sendiri
 - Memiliki Aplikasi Android Untuk Karyawan
+- Memiliki Team IT Yang Solid
