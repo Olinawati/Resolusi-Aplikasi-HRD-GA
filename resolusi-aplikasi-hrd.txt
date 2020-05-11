@@ -9,6 +9,7 @@ Resolusi Aplikasi HRD - GA
 - Membuat Aplikasi Android Untuk Seluruh Karyawan
     - Android Studio
     - Flutter
+    - React JS
     
 - Mempunyai Cloud Computing Sendiri
 - Memiliki Team IT Yang Solid
