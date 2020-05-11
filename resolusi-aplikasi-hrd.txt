@@ -3,8 +3,8 @@ Resolusi Aplikasi HRD - GA
 - Membuat Aplikasi WEB untuk HRD - GA
   - PHP Native
   - PHP Framework Code Igniter
-  - PHP Laravel
+  - PHP Framework Laravel
   - Rest API
 - Mempunyai Cloud Computing Sendiri
-- Memiliki Aplikasi Android Untuk Karyawan
+- Memiliki Aplikasi Android Untuk Seluruh Karyawan
 - Memiliki Team IT Yang Solid
