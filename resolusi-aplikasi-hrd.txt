@@ -7,7 +7,7 @@ Resolusi Aplikasi HRD - GA
     - Rest API
 
 - Membuat Aplikasi Android Untuk Seluruh Karyawan
-    - ANdroid Studio
+    - Android Studio
   
 - Mempunyai Cloud Computing Sendiri
 - Memiliki Team IT Yang Solid
